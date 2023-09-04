@@ -1,0 +1,55 @@
+# day 13 - Debugging
+
+### Defining the Problem
+
+We are going to find things in our code that prevents them from doing what they want to. It is inevitable. We all created bugs. 
+
+### 1. Describe the Problem
+
+Try to make sense of what is going on. 
+
+When you run into a problem in your code, try to describe it and really understand what is going on inside your code. Then test your assumptions, and see which is actually false. 
+
+### 2. Reproduce the Bug
+
+If you try to find exactly where is the problem and make it a bug all of the time when you run it. Then it is much easier to fix the bug. 
+
+### 3. Play Computer
+
+Read through your code as a computer. Check your code manually and try to see it in the view of a machine that just follows instructions. . 
+
+### 4. Fix the Errors
+
+Google and Stack Overflow is your main friend in fixing the errors. 
+
+There is no underlines of line of errors, but it just do not want to do, what you want it to do. Experience is the best friend of debugging, the more exp you have on a certain problem, the easier it is to solve in the future. 
+
+### 5. Print if Your Friend
+
+Print is basically your best friend. You can rely on print to check your bugs. 
+
+Check your variables and assumptions in order to check whether they are producing what you want them to. Always use print whenever you can. 
+
+### 6. Using a Debugger
+
+With the help of a debugger, it is like printing each step of the process and you can check it manually on where is the problem and see where is the problem. As experience grow, we are going to use the debugger more and more. 
+
+### Final Tips
+
+### 7. Take a Break
+
+Have a cup of tea or have a nap and you will be surprised just how easier the problem is. 
+
+### 8. Ask a friend
+
+You can ask someone who is also taking a course with you. They will use the same assumption that you make and it will be a lot easier. 
+
+### 9. Run Often
+
+Run your code often, always check every little execution. Once you change d the program ever so slightly. You will have a problem with multiple bugs. Try to do it one at a time. 
+
+### 10. Ask Stack Overflow
+
+It is design as a way of asking other developers when you think there is a bug that is unique. As programmers, it is a vital tool in our tool belt. But use it only as a last resort. Don’t worry about creating bugs, they are normal. Just know how to tackle them. 
+
+It is an important part of a programmer’s journey. We can do it!
