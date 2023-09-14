@@ -13,9 +13,14 @@ print("Hello " + input("What is your name?") + "!")
 print( len( input("What is your name?")))
 
 #Switcheroo
+a = 5
+b = 3
+
 temp = a 
 a = b 
 b = temp
+
+print(f"{a} and {b} and temp")
 
 #Band Name generator 
 print("Hello! Welcome to Band Generator.")
